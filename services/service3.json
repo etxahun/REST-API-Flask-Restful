@@ -1,0 +1,5 @@
+{
+ "id": 1,
+ "name": "service1",
+ "command": "echo \"Hello World Service 3\""
+}
